@@ -1,2 +1,2 @@
 # sahara
-Dynamic website generator with scripting snippets (HTMX, CSS, JS..)
+Dynamic website with scripting snippets (HTMX, CSS, JS..)
