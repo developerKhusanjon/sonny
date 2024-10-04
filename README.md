@@ -1,2 +1,2 @@
 # sahara
-Dynamic website with scripting snippets (HTMX, CSS, JS..)
+Dynamic website by templates (or own front app) and business logic dsl
