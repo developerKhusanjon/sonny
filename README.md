@@ -1,2 +1,2 @@
 # Vibe
-Dynamic website by templates (or own front app) and business logic dsl
+Somewhat framework for supercharged apps
